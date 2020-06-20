@@ -1,0 +1,10 @@
+.cover__overlay {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    margin: auto;
+}
+
+.cover__overlay:hover {
+    opacity: 0.8;
+}

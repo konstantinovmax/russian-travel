@@ -1,0 +1,8 @@
+.header__lang-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: 30px 29px;
+    grid-gap: 18px;
+}

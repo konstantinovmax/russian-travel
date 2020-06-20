@@ -1,4 +1,99 @@
-@import url(./__caption/lead__caption.css);
-@import url(./__image/lead__image.css);
-@import url(./__subtitle/lead__subtitle.css);
 @import url(./__title/lead__title.css);
+@import url(./__subtitle/lead__subtitle.css);
+@import url(./__image/lead__image.css);
+@import url(./__caption/lead__caption.css);
+@import url(./__text/lead__text.css);
+
+.lead {
+  margin: 0 auto;
+  padding-top: 56px;
+  padding-right: 148px;
+  padding-left: 148px;
+  box-sizing: border-box;
+}
+  
+@media screen and (max-width: 1140px){
+  .lead {
+    padding-top: 48px;
+    padding-right: 48px;
+    padding-left: 48px;
+  }
+}
+  
+@media screen and (max-width: 984px){
+  .lead {
+    padding-top: 48px;
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+  
+@media screen and (max-width: 640px){
+  .lead {
+    padding-top: 48px;
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.lead {
+    max-width: 984px;
+    max-height: 1005px;
+    margin-left: 148px;
+    margin-top: 56px;
+    margin-right: 148px;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+@media screen and (max-width: 1140px){
+    .lead {
+        max-width: 928px;
+        max-height: 962px;
+        margin-left: 48px;
+        margin-top: 48px;
+        margin-right: 48px;
+        box-sizing: border-box;
+    }
+}
+
+@media screen and (max-width: 984px){
+    .lead {
+        max-width: 768px;
+        max-height: 862px;
+        margin-left: 0px;
+        margin-top: 48px;
+        margin-right: 0px;
+        box-sizing: border-box;
+    }
+}
+
+@media screen and (max-width: 640px){
+    .lead {
+        max-width: 320px;
+        max-height: 406px;
+        margin-left: 0px;
+        margin-top: 48px;
+        margin-right: 0px;
+        box-sizing: border-box;
+    }
+}
+*/

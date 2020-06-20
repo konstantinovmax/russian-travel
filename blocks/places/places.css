@@ -1,0 +1,30 @@
+.places {
+    padding-top: 92px;
+    padding-right: 148px;
+    padding-left: 148px;
+}
+
+@media screen and (max-width: 1140px){
+    .places {
+        padding-top: 92px;
+        padding-right: 48px;
+        padding-left: 48px; 
+    }
+}
+
+@media screen and (max-width: 984px){
+    .places {
+        padding-top: 88px;
+        padding-right: 24px;
+        padding-left: 24px;
+    }
+}
+
+@media screen and (max-width: 640px){
+    .places {
+        padding-top: 62px;
+        padding-right: 0;
+        padding-left: 0;
+        grid-template-columns: repeat(1, auto);
+    }
+}

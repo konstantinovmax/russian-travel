@@ -1,0 +1,21 @@
+.footer__menu-links {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: grid;
+    grid-template-areas: 
+    "maps weather shedules calendar trip";
+    grid-gap: 18px;
+}
+
+@media screen and (max-width: 725px){
+    .footer__menu-links {
+        grid-template-areas: 
+        "maps"
+        "weather" 
+        "shedules" 
+        "calendar" 
+        "trip";
+        grid-gap: 32px; 
+    }
+}

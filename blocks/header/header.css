@@ -1,5 +1,40 @@
-@import url(./__logo/header__logo.css);
+@import url(./__lang-list/header__lang-list.css);
 @import url(./__lang-link/header__lang-link.css);
+@import url(./__lang-link/_activate/header__lang-link-activate.css);
+@import url(./__lang-link/_hover/header__lang-link-hover.css);
+@import url(./__logo/header__logo.css);
 
 .header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 28px;
+  padding-left: 48px;
+  padding-right: 48px;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+@media screen and (max-width: 1140px){
+  .header {
+    padding-top: 28px;
+    padding-top: 48px;
+    padding-right: 48px;
+  }
+}
+  
+@media screen and (max-width: 984px){
+  .header {
+    padding-top: 28px; 
+    padding-right: 24px; 
+    padding-left: 24px;
+  }
+}
+  
+@media screen and (max-width: 640px){
+  .header {
+    padding-top: 16px;
+    padding-right: 16px; 
+    padding-left: 20px;
+  }
 }
