@@ -7,33 +7,33 @@
   line-height: 36px;
   text-align: center;
   margin-top: 32px;
-  margin-right: 0;
-  margin-left: 0;
+  margin-right: auto;
+  margin-left: auto;
 }
   
 @media screen and (max-width: 1140px){
   .lead__subtitle {
     margin-top: 32px;
-    margin-right: 0;
-    margin-left: 0;
+    margin-right: auto;
+    margin-left: auto;
   }
 }
   
 @media screen and (max-width: 984px){
   .lead__subtitle {
     margin-top: 32px;
-    margin-right: 24px;
-    margin-left: 24px;
+    margin-right: auto;
+    margin-left: auto;
   }
 }
   
-@media screen and (max-width: 640px){
+@media screen and (max-width: 500px){
   .lead__subtitle {
     max-width: 288px;
     max-height: 40px;
     margin-top: 16px;
-    margin-right: 16px;
-    margin-left: 16px;
+    margin-right: auto;
+    margin-left: auto;
     font-size: 16px;
     line-height: 20px;
   }

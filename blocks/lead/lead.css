@@ -6,9 +6,6 @@
 
 .lead {
   font-family: "Inter", Arial, sans-serif;
-  display: flex;
-  flex-flow: column;
-  align-items: center;
   padding-top: 56px;
   padding-right: 148px;
   padding-left: 148px;
