@@ -4,6 +4,7 @@
 @import url(./__author/footer__author.css);
 
 .footer {
+    font-family: "Inter", Arial, sans-serif;
     padding-top: 92px;
     padding-right: 48px;
     padding-bottom: 24px;

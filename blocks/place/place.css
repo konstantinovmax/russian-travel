@@ -7,19 +7,20 @@
 @import url(./__website/place__website.css);
 
 .place {
-    width: 100%;
-    margin-bottom: 80px;
-    display: grid;
-    grid-template-columns: 460px 1fr;
-    grid-auto-rows: auto;
-    grid-gap: 48px 40px;
-    grid-template-areas: 
+  font-family: "Inter", Arial, sans-serif;
+  width: 100%;
+  margin-bottom: 80px;
+  display: grid;
+  grid-template-columns: 460px 1fr;
+  grid-auto-rows: auto;
+  grid-gap: 48px 40px;
+  grid-template-areas: 
     "title url-heading"
     "image paragraph";
 }
 
 .place:last-child {
-    margin-bottom: 0;
+  margin-bottom: 0;
 }
 
 @media screen and (max-width: 1140px){
