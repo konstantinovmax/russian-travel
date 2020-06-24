@@ -4,7 +4,7 @@
 @import url(./__author/footer__author.css);
 
 .footer {
-    font-family: "Inter", Arial, sans-serif;
+    font-family: "Inter", Arial, Sans-serif;
     padding-top: 92px;
     padding-right: 48px;
     padding-bottom: 24px;
@@ -19,7 +19,6 @@
     .footer {
         padding-top: 88px;
         padding-right: 24px;
-        padding-bottom: 24px;
         padding-left: 24px; 
     }
 }
@@ -27,6 +26,5 @@
 @media screen and (max-width: 640px){
     .footer {
         padding-right: 118px;
-        padding-bottom: 24px;
     }
 }

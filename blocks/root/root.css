@@ -9,7 +9,7 @@ header, span, div, nav, p, h1, h2, h3, h4, a, section, ul, li, img, iframe {
 
 .root {
     background-color: #2A2C2F;
-    font-family: 'Inter', Arial;
+    font-family: 'Inter', Arial, Sans-serif;
     color: #ffffff;
     margin: 0;
 }

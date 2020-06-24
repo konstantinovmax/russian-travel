@@ -1,12 +1,13 @@
 .place__link {
     margin: 0;
     grid-area: 1;
-    font-style: normal;
     font-weight: normal;
     font-size: 18px;
     line-height: 22px;
     text-decoration-line: underline;
     color: #ffffff;
+    display: block;
+    margin-top: 12px;
 }
 
 .place__link:hover {

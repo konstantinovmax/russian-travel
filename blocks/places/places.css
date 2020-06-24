@@ -1,5 +1,5 @@
 .places {
-    font-family: "Inter", Arial, sans-serif;
+    font-family: "Inter", Arial, Sans-serif;
     padding-top: 92px;
     padding-right: 148px;
     padding-left: 148px;
@@ -7,7 +7,6 @@
 
 @media screen and (max-width: 1140px){
     .places {
-        padding-top: 92px;
         padding-right: 48px;
         padding-left: 48px; 
     }

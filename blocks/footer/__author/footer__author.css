@@ -8,10 +8,6 @@
 @media screen and (max-width: 725px){
     .footer__author {
         margin-top: 48px;
-        margin-right: 0;
-        margin-bottom: 0;
-        margin-left: 0;
-        font-size: 14px;
         line-height: 14px;
     }
   }

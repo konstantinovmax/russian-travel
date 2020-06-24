@@ -3,7 +3,7 @@
 
 
 .photo-grid {
-    font-family: "Inter", Arial, sans-serif;
+    font-family: "Inter", Arial, Sans-serif;
     padding-top: 46px;
     padding-right: 48px;
     padding-left: 48px;
@@ -15,9 +15,6 @@
   
 @media screen and (max-width: 1140px){
     .photo-grid {
-        padding-top: 46px;
-        padding-right: 48px;
-        padding-left: 48px;
         grid-template-columns: repeat(3, auto);
         grid-gap: 14px;
     }
