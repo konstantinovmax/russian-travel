@@ -3,6 +3,7 @@
 @import url(./__image/lead__image.css);
 @import url(./__caption/lead__caption.css);
 @import url(./__text/lead__text.css);
+@import url(./__picture/lead__picture.css);
 
 .lead {
   font-family: "Inter", Arial, Sans-serif;
