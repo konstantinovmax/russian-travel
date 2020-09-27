@@ -11,4 +11,5 @@
 2. Проверить код на кроссбраузерность и дописать все вендорные префиксы
 3. Реализовать функционал по смене языка
 
-### https://konstantinovmax.github.io/russian-travel/index.html
+### Ссылка на проект:
+https://konstantinovmax.github.io/russian-travel/index.html
