@@ -12,4 +12,4 @@
 3. Реализовать функционал по смене языка
 
 ### Ссылка на проект:
-https://konstantinovmax.github.io/russian-travel/index.html
+#### https://konstantinovmax.github.io/russian-travel/index.html
